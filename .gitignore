@@ -1,0 +1,5 @@
+# Course point-cloud data (280 MB each, over GitHub's 100 MB file limit)
+data.obj
+
+# Python cache
+__pycache__/
